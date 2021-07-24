@@ -1,9 +1,13 @@
-<header>
+<!DOCTYPE html>
+<html>
+<body>
+<div class="sidenav">
   <h1>Viktoria Maximenkova</h1>
+ </header>
   <b>Email:</b> vvwvvm@icloud.com
-</header>
+  </div>
 
-<main>
+<div class="main">
   <section>
     <h2>About me</h2>
     <p>Bauman Moscow State Technical University (Kaluga branch).</p>
@@ -21,4 +25,6 @@
     <h2>Languages</h2>
     <p>English – B1.</p>
   </section>
-</main>
+</div>
+</body>
+</html>
